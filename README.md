@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
 
-<p align="center">:small_blue_diamond: 🔭 I’m currently working on [my first react project](https://github.com/Pabl0Parra/TUTORIAL-APP-REACT)</p>
+<p align="center">:small_blue_diamond: 🔭 I’m currently working on my first react project @ https://github.com/Pabl0Parra/TUTORIAL-APP-REACT</p>
 
 <p align="center">:small_blue_diamond: 🌱 I’m currently learning <strong>React<strong></p>
 
