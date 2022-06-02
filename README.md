@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pablo Parra</h1><br/>
-<h3 align="center">An enthusiastic frontend developer from Barcelona, Spain</h3><br/>
+<a href="https://github.com/Pabl0Parra">![Pabl0Parra Profile GIF](./assets/profile.gif)</a>
 
 ---
+
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
 
 - 🔭 I like to explore new technologies and develop software solutions and quick hacks.
@@ -13,10 +13,9 @@
 - 📫 You can read me @<strong>pparrita2001@gmail.com<strong>
 
 - 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-  
 - ⚡ Fun fact <em>I practice calisthenics & train dobermans.</em>
 
----   
+---
 
 <h3>🛠 &nbsp;Tech Stack:</h3><br/>
 
@@ -36,7 +35,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ---
-  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pablo parra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo parra" height="30" width="40" /></a>
@@ -50,7 +49,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=pabl0parra&show_icons=true&locale=en" alt="pabl0parra" /></p><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabl0parra&" alt="pabl0parra" /></p>
-  
+
 <img src="https://komarev.com/ghpvc/?username=pabl0parra&label=Profile%20views&color=0e75b6&style=flat" alt="pabl0parra" /> </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabl0parra" alt="pabl0parra" /></a> </p>
