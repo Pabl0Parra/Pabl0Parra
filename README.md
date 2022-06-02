@@ -2,18 +2,19 @@
 
 ---
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
+<!-- Description about me -->
+<h2 align="center"> About me 👨‍💻 </h2>
 
 - 🔭 I like to explore new technologies and develop software solutions and quick hacks.
 
 - 🌱 I’m currently studying <strong>React<strong> at the IT Academy of BCN Activa.
 
-- 👯 I’m looking to collaborate on <em>any React projects.</em>
+- :performing_arts: I’m looking to collaborate on <em>any React projects.</em>
 
-- 📫 You can read me @<strong>pparrita2001@gmail.com<strong>
+- 📫 You can reach me @<strong>pparrita2001@gmail.com<strong>
 
 - 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-- ⚡ Fun fact <em>I practice calisthenics & train dobermans.</em>
+- ⚡ Fun fact <em>I practice calisthenics & play the piano.</em>
 
 ---
 
