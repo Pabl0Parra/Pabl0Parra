@@ -3,7 +3,7 @@
 ---
 
 <!-- Description about me -->
-<h2 align="center"> About me 👨‍💻 </h2>
+<h2> About me 👨‍💻 </h2>
 
 - 🔭 I like to explore new technologies and develop software solutions and quick hacks.
 
@@ -26,8 +26,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;  
-![JEST](https://img.shields.io/badge/-JEST-05122A?style=flat&logo=JEST)&nbsp;  
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
+![JEST](https://img.shields.io/badge/-JEST-05122A?style=flat&logo=JEST)&nbsp; 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
@@ -45,12 +45,12 @@
   
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabl0parra&show_icons=true&locale=en&layout=compact" alt="pabl0parra" /></p><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabl0parra&show_icons=true&locale=en&theme=github_dark&layout=compact" alt="pabl0parra" /></p><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pabl0parra&show_icons=true&locale=en" alt="pabl0parra" /></p><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=pabl0parra&show_icons=true&theme=github_dark&locale=en" alt="pabl0parra" /></p><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pabl0parra&" alt="pabl0parra" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pabl0parra&theme=github_dark" alt="pabl0parra" /></p>
 
-<img src="https://komarev.com/ghpvc/?username=pabl0parra&label=Profile%20views&color=0e75b6&style=flat" alt="pabl0parra" /> </p>
+<img src="https://komarev.com/ghpvc/?username=pabl0parra&label=Profile%20views&style=flat&theme=github_dark" alt="pabl0parra" /> </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabl0parra" alt="pabl0parra" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabl0parra&theme=github_dark" alt="pabl0parra" /></a> </p>
