@@ -1,4 +1,4 @@
-<a href="https://github.com/Pabl0Parra">![Pabl0Parra Profile GIF](./assets/profile.gif)</a>
+<a href="https://github.com/Pabl0Parra">![Pabl0Parra Profile SVG](./assets/profile.svg)</a>
 
 ---
 
