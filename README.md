@@ -11,7 +11,7 @@
 
 - :performing_arts: I’m looking to collaborate on <em>any React projects.</em>
 
-- 📫 You can reach me @<strong>pparrita2001@gmail.com<strong>
+- 📫 You can reach me @<strong>odddevbcn@gmail.com<strong>
 
 - 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 - ⚡ Fun fact <em>I practice calisthenics & play the piano.</em>
