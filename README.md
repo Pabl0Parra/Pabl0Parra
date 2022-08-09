@@ -27,6 +27,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;  
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=Redux)&nbsp;
 ![JEST](https://img.shields.io/badge/-JEST-05122A?style=flat&logo=JEST)&nbsp; 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -34,6 +35,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=Framer)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 ---
 
