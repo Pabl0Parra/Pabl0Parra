@@ -18,27 +18,38 @@
 
 ---
 
-<h3>🛠 &nbsp;Tech Stack:</h3><br/>
+<h3>🛠 &nbsp;Tech Stack:</h3>
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-05122A?style=flat&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;  
+![Styled Components](https://img.shields.io/badge/styled--components-05122A?style=flat&logo=styled-components&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=Redux)&nbsp;
+![Redux](https://img.shields.io/badge/redux-05122A?style=flat&logo=Redux)&nbsp;
+![React Router](https://img.shields.io/badge/React_Router-05122A?style=flat&logo=react-router&logoColor=white)&nbsp;
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-05122A?style=flat&logo=reacthookform&logoColor=white)&nbsp;
+![React Query](https://img.shields.io/badge/-React%20Query-05122A?style=flat&logo=react%20query&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase&logoColor=white)&nbsp;
+![Gatsby](https://img.shields.io/badge/Gatsby-05122A?style=flat&logo=gatsby&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=white)&nbsp;
 ![JEST](https://img.shields.io/badge/-JEST-05122A?style=flat&logo=JEST)&nbsp; 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/gitlab-05122A?style=flat&logo=gitlab&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=Framer)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
+![Framer](https://img.shields.io/badge/Framer-05122A?style=flat&logo=Framer)&nbsp;
+![MUI](https://img.shields.io/badge/MUI-05122A?style=flat&logo=mui&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-05122A?style=flat&logo=canva&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
+![Netlify](https://img.shields.io/badge/netlify-05122A?style=flat&logo=netlify&logoColor=#00C7B7)&nbsp;
+![Heroku](https://img.shields.io/badge/heroku-05122A?style=flat&logo=heroku&logoColor=white)&nbsp;
 ---
 
 <h3 align="left">Connect with me:</h3>
