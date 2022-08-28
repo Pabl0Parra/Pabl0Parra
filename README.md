@@ -5,16 +5,22 @@
 <!-- Description about me -->
 <h2> About me 👨‍💻 </h2>
 
-- 🔭 I like to explore new technologies and develop software solutions and quick hacks.
+- 🔭 I like to explore new technologies, develop software solutions and quick hacks.
 
-- 🌱 I’m currently studying <strong>React<strong> at the IT Academy of BCN Activa.
+- :mortar_board: <strong>Associate Degree in Applied Computer Science</strong> from Georgia Piedmont Technical College (USA).
 
-- :performing_arts: I’m looking to collaborate on <em>any React projects.</em>
+- :mortar_board: In December 2021, I completed the <strong>Google IT Support Professional Certificate</strong>.
 
-- 📫 You can reach me @<strong>odddevbcn@gmail.com<strong>
+- :mortar_board: In July 2022, I finished the <strong>React Bootcamp</strong> at the IT Academy of BCN Activa.
+
+- 🌱 I´m currently studying <strong>Vue</strong> at IronHack in Barcelona.
+
+- :performing_arts: I’m looking to collaborate on <em>any React or Vue projects.</em>
+
+- 📫 You can reach me at <strong>odddevbcn@gmail.com<strong>
 
 - 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-- ⚡ Fun fact <em>I practice calisthenics & play the piano.</em>
+- ⚡ Fun fact <em>I practice calisthenics & play the piano :musical_keyboard:.</em>
 
 ---
 
