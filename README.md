@@ -20,7 +20,7 @@
 - 📫 You can reach me at <strong>odddevbcn@gmail.com<strong>
 
 - 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-- ⚡ Fun facts <em>I practice calisthenics & play the piano :musical_keyboard:.</em>
+- ⚡ Fun facts: <em>I practice calisthenics & play the piano :musical_keyboard:.</em>
 
 ---
 
