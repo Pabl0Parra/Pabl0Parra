@@ -13,11 +13,11 @@
 
 - :mortar_board: In July 2022, I finished the <strong>React Bootcamp</strong> at the IT Academy of BCN Activa.
 
-- 🌱 I´m currently studying <strong>Vue</strong> at IronHack in Barcelona.
+- 🎓 In October 2022, I finished the <strong>Vue Bootcamp</strong> at IronHack in Barcelona.
 
 - :performing_arts: I’m looking to collaborate on <em>any React or Vue projects.</em>
 
-- 📫 You can reach me at <strong>odddevbcn@gmail.com<strong>
+- 📫 You can reach me at <strong>frontend.bcn.dev@gmail.com<strong>
 
 - 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 - ⚡ Fun facts: <em>I practice calisthenics & play the piano :musical_keyboard:.</em>
