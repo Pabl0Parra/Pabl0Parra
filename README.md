@@ -7,13 +7,18 @@
 
 - 🔭 I like to explore new technologies, develop software solutions and quick hacks.
 
-- :mortar_board: <strong>Associate Degree in Applied Computer Science</strong> from Georgia Piedmont Technical College (USA).
+- 🛠 Currently working on [IT Academy Project - Barcelona Activa](https://github.com/IT-Academy-BCN/ita-directory)
 
-- :mortar_board: In December 2021, I completed the <strong>Google IT Support Professional Certificate</strong>.
+- 🎓 In October 2022, I finished the <strong>Vue Bootcamp</strong> at IronHack in Barcelona.
 
 - :mortar_board: In July 2022, I finished the <strong>React Bootcamp</strong> at the IT Academy of BCN Activa.
 
-- 🎓 In October 2022, I finished the <strong>Vue Bootcamp</strong> at IronHack in Barcelona.
+- :mortar_board: In December 2021, I completed the <strong>Google IT Support Professional Certificate</strong>.
+
+- :mortar_board: <strong>Associate Degree in Applied Computer Science</strong> from Georgia Piedmont Technical College (USA).
+
+
+
 
 - :performing_arts: I’m looking to collaborate on <em>any React or Vue projects.</em>
 
@@ -40,6 +45,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-05122A?style=flat&logo=react-router)&nbsp;
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-05122A?style=flat&logo=reacthookform)&nbsp;
 ![React Query](https://img.shields.io/badge/-React%20Query-05122A?style=flat&logo=react%20query)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Supabase](https://img.shields.io/badge/Supabase-05122A?style=flat&logo=Supabase)&nbsp;
 ![Gatsby](https://img.shields.io/badge/Gatsby-05122A?style=flat&logo=gatsby)&nbsp;
