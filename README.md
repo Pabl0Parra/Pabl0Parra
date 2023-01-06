@@ -9,6 +9,8 @@
 
 - 🛠 Currently working on [IT Academy Project - Barcelona Activa](https://github.com/IT-Academy-BCN/ita-directory)
 
+- :handshake: Collaborating on open source project [KingsLeague](https://github.com/midudev/kings-league-project), where we are building their API from scratch as well as recreating the official website with [Astro](https://astro.build/) instead of wordpress that they use.
+
 - 🎓 In October 2022, I finished the <strong>Vue Bootcamp</strong> at IronHack in Barcelona.
 
 - :mortar_board: In July 2022, I finished the <strong>React Bootcamp</strong> at the IT Academy of BCN Activa.
