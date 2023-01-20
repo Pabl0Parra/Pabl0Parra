@@ -33,20 +33,24 @@
 
 <h3>🛠 &nbsp;Tech Stack:</h3>
 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vuedotjs)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-05122A?style=flat&logo=typescript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![NextJs](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
+![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss&logoColor=563D7C)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;  
-![Styled Components](https://img.shields.io/badge/styled--components-05122A?style=flat&logo=styled-components)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
-![Redux](https://img.shields.io/badge/redux-05122A?style=flat&logo=Redux)&nbsp;
-![React Router](https://img.shields.io/badge/React_Router-05122A?style=flat&logo=react-router)&nbsp;
+![Styled Components](https://img.shields.io/badge/-Styled--Components-05122A?style=flat&logo=styled-components)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-05122A?style=flat&logo=reacthookform)&nbsp;
+![React Router](https://img.shields.io/badge/React_Router-05122A?style=flat&logo=react-router)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=563D7C)&nbsp;
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-05122A?style=flat&logo=reduxtoolkit)&nbsp;
 ![React Query](https://img.shields.io/badge/-React%20Query-05122A?style=flat&logo=react%20query)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Supabase](https://img.shields.io/badge/Supabase-05122A?style=flat&logo=Supabase)&nbsp;
