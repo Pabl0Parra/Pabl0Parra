@@ -72,7 +72,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-05122A?style=flat&logo=heroku)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-05122A?style=flat&logo=vercel)&nbsp;
 ---
-
+<img align="center" alt="GIF" src="https://res.cloudinary.com/dcwx2biey/image/upload/v1675029942/code_xmpzqq.gif" width="100%" height="200" />  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pablo parra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo parra" height="30" width="40" /></a>
