@@ -9,6 +9,10 @@
 
 - 🛠 Currently working on [IT Academy Project - Barcelona Activa](https://github.com/IT-Academy-BCN/ita-directory)
 
+- 🛠 Currently working on [No Country - React Native cohorte](https://github.com/No-Country/C9-47-ft-ReactNative)
+
+- 🛠 Currently working on [IT Academy Game](https://github.com/vicenlu/ita-game)
+
 - :handshake: Collaborated on open source project [KingsLeague](https://github.com/midudev/kings-league-project), where we built their API from scratch and redesigned the official website with [Astro](https://astro.build/) framework (the real site is built with Wordpress). This project received a letter of cease and desist from the actual owner of the KingsLeague. The repo is still available for learning purposes but our project is finished at this time.
 
 - 🎓 In October 2022, I finished the <strong>Vue Bootcamp</strong> at IronHack in Barcelona.
