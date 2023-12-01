@@ -7,7 +7,7 @@
 
 - 🔭 I like to explore new technologies, develop software solutions and quick hacks.
 
-- Currently working as Software Engineer at [Eolos, floating LIDAR solutions](https://www.eolosslutions.com).
+- Currently working as Software Engineer at [Eolos, floating LIDAR solutions](https://www.eolossolutions.com).
 
 - 🛠 Previously part of [IT Academy Project - Barcelona Activa](https://github.com/IT-Academy-BCN/ita-directory)
 
